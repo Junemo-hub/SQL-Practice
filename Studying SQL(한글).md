@@ -15,3 +15,7 @@ FROM, ON, JOIN, WHERE, GROUP BY, HAVING, SELECT, DISTINCT, ORDER BY, LIMIT
 
 1661. Average Time of Process per Machine(6/3)
   ROUND(AVG(B.timestamp - A.timestamp), 3) AS processing_time 이라는 부분이 핵심인듯.
+
+
+1280. Students and Examinations(6/4)
+CROSS JOIN 처음 써봄.
