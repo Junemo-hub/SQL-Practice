@@ -1,7 +1,29 @@
-# 📂 SQL-practice
+# 📂 SQL-Practice
 
-This repository is a curated collection of 23 SQL practice problems.  
-Each file represents a real-world query scenario to help you sharpen your SQL skills — covering data cleaning, aggregation, joins, subqueries, and window functions.
+Welcome to the ultimate SQL workout zone! This repository contains a curated collection of SQL practice problems sourced from both **LeetCode** and **Datalemur**.
+
+Each file represents a real-world query scenario designed to help you master SQL — including data cleaning, aggregation, joins, subqueries, and advanced window functions.
+
+---
+
+## 📁 Folder Structure
+```
+SQL-Practice/
+├── LeetCode/
+│ ├── Easy/
+│ ├── Medium/
+│ ├── Hard/
+├── Datalemur/
+│ ├── Easy/
+│ ├── Medium/
+│ ├── Hard/
+└── utils/
+└── schema.sql
+```
+
+- ✅ **LeetCode/**: LeetCode-style challenges categorized by difficulty.
+- ✅ **Datalemur/**: Real-life business scenario questions categorized by complexity.
+- 🛠 **utils/schema.sql**: Sample table schemas for testing queries locally.
 
 ---
 
